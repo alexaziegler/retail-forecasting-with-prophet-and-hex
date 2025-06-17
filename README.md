@@ -29,3 +29,13 @@ Forecast Generation:
 
 Validation:
 Cross-validation on holdout data, with MAE and MAPE metrics for transparency
+
+### visualization & executive insights
+Daily and Monthly Forecast Tables:
+Summarize average and projected revenue, including best/worst case scenarios.
+
+Trend and Confidence Interval Plots:
+Visualize revenue patterns, seasonality, and forecast uncertainty for risk-aware planning.
+
+Actual vs. Forecasted Revenue Comparison:
+Enables rapid assessment of model accuracy and business performance
